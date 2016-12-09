@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#626A73</color>
+     <color name="background_color1">#2B3749</color>
+    <color name="text_color">#D2D4D9</color>
+    <color name="text_color2">#C1C5C7</color>
+    <color name="line_color">#BEC2C8</color>
+    <color name="msg_emote_divider">#ffa1a1a1</color>
+    <color name="base_color_text_black">#3e3e39</color>
+    <color name="base_color_01">#887B7F</color>
+    <color name="base_color_02">#681F3C</color>
+    <color name="base_color_03">#281D25</color>
+</resources>
